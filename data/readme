@@ -1,0 +1,15 @@
+The difference between morphology_Ancillary_C11.ods and morphology_Ancillary_C11_corr.ods:
+
+1) The coordinates for Hubble SN Vespesian (215.136078 53.046726) in fact correspond to another Hubble SN - Obama.
+According to Riess et al. 2018 (10.3847/1538-4357/aaa5a9) the coordinates of Vespesian are 21:29:42.60−07:41:47.7.
+The LC parameters for which of those SNe are given in Pantheon analysis?
+
+2) Two supernovae from the Pantheon sample seem to be the same object:
+Name  z alpha delta
+SN:2005hj 0.05592 21.701651 -1.238140
+SN:6558 0.05631 21.701672 -1.238135
+(see for example, http://vizier.u-strasbg.fr/viz-bin/VizieR-5?-ref=VIZ5d94760f949a&-out.add=.&-source=II/333/snlist&recno=209, Sako et al., 2018)
+
+3) Another issue is the coordinates for SN 1996C. The correct coordinates are 13 50 48.60 +49 19 07.1 -
+this misprint goes from one to another analysis for many years.
+I attached the screen with the real position and the one you use (the same for JLA).
