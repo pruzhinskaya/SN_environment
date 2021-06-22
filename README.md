@@ -17,9 +17,12 @@ In these Jupyter Notebooks we reproduce the Hubble diagram fit with Pantheon sup
 ### Data
 
 Contains data files
-* `FITOPT000.FITRES` – Hubble diagram fit of Pantheon supernovae.
+* `FITOPT000.FITRES` – file with those Pantheon supernovae that have photometry from two different sources, i.e. two sets of SALT2 LCs parameters are given.
 * `Ancillary_G10.FITRES` – Pantheon data for G10 intrinsic scatter model.
 * `Ancillary_C11.FITRES` – Pantheon data for C11 intrinsic scatter model.
+* `sys_full_long_G10.txt` – systematic covariance matrix for G10 intrinsic scatter model.
+* `sys_full_long_C11.txt` – systematic covariance matrix for C11 intrinsic scatter model.
+* `lcparam_full_long.txt` – file with the final distances (add ~19.35 to them to get μ values).
 
 
 ### Code
