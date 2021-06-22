@@ -17,12 +17,15 @@ In these Jupyter Notebooks we reproduce the Hubble diagram fit with Pantheon sup
 ### Data
 
 Contains data files
+* `FITOPT000.FITRES` – Hubble diagram fit of Pantheon supernovae.
+* `Ancillary_G10.FITRES` – Pantheon data for G10 intrinsic scatter model.
+* `Ancillary_C11.FITRES` – Pantheon data for C11 intrinsic scatter model.
 
 
 ### Code
 
-* `comparison_mu.ipynb` – comparison between distance modulus *'MU'* from Pantheon data and distance modulus calculated from from *'mB', 'x1', 'c',* and other parameters taken from Pantheon.
 * `SNIa_Pantheon_fit.ipynb` – Hubble diagram fit of Pantheon supernovae.
+* `comparison_mu.ipynb` – comparison between distance modulus *'MU'* from Pantheon data and distance modulus calculated from from *'mB', 'x1', 'c',* and other parameters taken from Pantheon.
 * `pantheon_morphology.ipynb` – shows how host morphology and galactocentric distance affect the supernova light-curve parameters.
 
 ### Plots
