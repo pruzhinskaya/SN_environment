@@ -6,7 +6,6 @@
 * [References](#references)
 
 ## General info
-Some new things
 
 Type Ia Supernovae are widely used to measure distances in the Universe. Despite the recent progress achieved in SN Ia standardization, the Hubble diagram still shows some remaining intrinsic dispersion. The remaining scatter in supernova luminosity could be due to the environmental effects.
 
@@ -23,7 +22,8 @@ Contains data files
 ### Code
 
 * `comparison_mu.ipynb` – comparison between distance modulus *'MU'* from Pantheon data and distance modulus calculated from from *'mB', 'x1', 'c',* and other parameters taken from Pantheon.
-* `pantheon_morphology.ipynb` – show how host morphology and galactocentric distance affect the supernova light-curve parameters.
+* `SNIa_Pantheon_fit.ipynb` – Hubble diagram fit of Pantheon supernovae.
+* `pantheon_morphology.ipynb` – shows how host morphology and galactocentric distance affect the supernova light-curve parameters.
 
 ### Plots
 Output plots from Jupyter Notebooks
